@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestConectionApplication</string>
+    <string name="btn_sc"> Verificar conexion</string>
+</resources>
